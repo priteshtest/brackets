@@ -16,3 +16,5 @@ branches:
   only:
     - master
     - release
+addons:
+  srcclr: true
